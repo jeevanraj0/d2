@@ -1,2 +1,7 @@
 "hello github"
+ HEAD
 "Main branch edit"
+
+"This is a feature branch edit"
+"Feature branch conflicting edit"
+ feature-branch
